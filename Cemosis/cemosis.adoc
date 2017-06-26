@@ -3,14 +3,14 @@ la visibilité des mathématiques. Pour cela Cemosis travaille avec d'autres dis
 
 Pour cela, Cemosis travaille sur de nombreux projets inter-disciplinaires comme le projet TONUS (Tokamak and numerical simulations), il a pour but l’étude de la production d’énergie à l’aide de la fusion nucléaire au sein d’un tokamak. C’est un projet très important dans le développement d’ITER( International Thermonuclear Experimental Reactor).
 
-image::img/Tokamak.jpg
+image::img/Tokamak.jpg[]
 
 Un autre exemple de projet est Vivabrain, qui lui est en lien avec la médecine. L’objectif est de permettre aux médecins de mieux comprendre les problèmes cérébrovasculaires (AVC, Alzheimer, ...) en générant et simulant le fonctionnement des vaisseaux sanguins du cerveau humain.
 
-image::img/vivabrain-1.jpg
+image::img/vivabrain-1.jpg[]
 
 Cemosis cherche aussi à augmenter les interactions entre chercheurs et entreprises, et plus particulièrement pour les PME et PMI qui n’ont pas accès aux mêmes ressources que les grandes entreprises. Ceci est illustré par le projet en lien avec la PME Gazomat. Lors de ce projet la température, autour d’une diode servant à la détection de gaz, est étudiée afin de vérifier le bon fonctionnement du dispositif de détection de fuite de gaz lors de changement de température.
 
-image::img/lazer.png
+image::img/lazer.png[]
 
 Tout ces aspects ont pour objectif final d’augmenter la visibilité sur l’impactdes résultats de la recherche en modélisation, et plus généralement des mathématiques, dans nos vies.
