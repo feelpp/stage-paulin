@@ -5,19 +5,19 @@
 
 
 == Contexte
-include::Intro/intro.adoc
+include::Intro/intro.adoc[]
 
 == Modélisation Simulation Optimisation (MSO)
-include::MSO/mso.adoc
+include::MSO/mso.adoc[]
 
 == Signal et Image
-include::Signal_Image/signal_image.adoc
+include::Signal_Image/signal_image.adoc[]
 
 == Calcul Haute Performance (HPC)
-include::Calcul_Haute_perf/hpc.adoc
+include::Calcul_Haute_perf/hpc.adoc[]
 
 == Traitement et fouilles des données
-include::Traitement_et_fouille_donnees/data_mining.adoc
+include::Traitement_et_fouille_donnees/data_mining.adoc[]
 
 == Cemosis
-include::Cemosis/cemosis.adoc
+include::Cemosis/cemosis.adoc[]
