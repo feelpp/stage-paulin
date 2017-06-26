@@ -1,0 +1,7 @@
+= CEMOSIS
+
+image::img/math-compscience.jpg
+
+Cemosis (Centre de Modélisation et de Simulation de Strasbourg) a été créé en 2013, il est composé de chercheurs et d’ingénieurs de l’IRMA ainsi que de collaborateurs extérieurs. Son but est de promouvoir 
+la visibilité des mathématiques. Pour cela Cemosis travaille avec d'autres disciplines telle que la physique et la santé avec des projets comme TONUS et Vivabrain, ainsi qu'avec des entreprises régionales et nationales sur des projets comme celui avec l'entreprise Gazomat.
+
