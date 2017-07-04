@@ -1,0 +1,11 @@
+= stage paulin
+
+Etude du contexte socio-économique concernant les mathématiques en France. (rapport EISEM)
+
+Travail sur les 4 grands domaines du master CSMI :
+MSO / Signal et image / HPC / Traitement et fouilles des données.
+Descriptif rapide de la discipline, des exemples d'applications, les maths utilisées.
+
+Travail sur cemosis afin de rédiger une newsletter.
+
+Zoom sur deux projets d'étudiants de deuxième année de master CSMI concernant le machine learning.
