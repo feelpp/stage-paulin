@@ -1,0 +1,43 @@
+In this article, we will see two projects carried out by two students in the second year of the CSMI Master. The first project concerns the recurrent neural network ( RNN ) realized by Marie HOUILLON and the second project is about the software DeepDream make by Clément BUSCHE.
+
+﻿== Recurrent neural network
+
+Let us first take a look at the project on recurrent neural network.
+
+First of all what is a recurrent neural network ? 
+It is an algorithm set that seek to imitate the functioning of our neurons, however a traditional neural network considers each entry (for instance a word) independently of the others. 
+Let us take the example of an automatic translator, give it a sentence and it will translate each word, not considering the hole sentence which can give a translation having no meaning. Networks of neurons are often optimized by learning methods (Machine learning), these methods allow a machine to evolve and gives it the possibility to perform more complex tasks. 
+
+Networks of recurring neurons are different from more traditional networks because they take the previous results into account and thus manages the dependencies. If we take back the example of the translator, it will this time translate the first word of the sentence and then take it in consideration for the next one, and
+give a proper translation. 
+The learning method used is Backpropagation through time (BPTT). It allows faster learning for networks of recurring neurons. But in return, the more entries there will be, the more the difficult it will be for the network to manage the dependencies. 
+
+Once the recurrent neural networks were studied, we had to move on to the implementation. It was done using Tenserflow, which is a machine learning tool developed by Google.
+Following this implementation, the project was interested in LSTM networks (Long Short Term Memory), it is a network of recurring neurons but it excels in memorizing elements that are either long or short. 
+The project illustrates examples of the use of such a network. For instance the text generation : we give as input an incomplete sentence and the objective of the network will be to find the missing sequence. 
+To conclude the project, the LSTM network was trained, using a model character by character, on the integral of La Fontaine's fables as well as pieces of Mollière. 
+
+
+The aim was to make it produce texts similar to the style of the two authors. The results gave rise to a text that is not very understandable. However, the network succeeded in generating a text that respect the structure of a play, most of the words belonged to the French language and the verbs were properly tuned. 
+Then the training focused on a model word by word with the rule that two words are separated from a space. This model involves a larger vocabulary than the character-by-character model.
+
+
+
+== DeepDream
+The second project is DeepDream.
+
+What is DeepDream?
+
+DeepDream is a program developed by Google allowing the visualization by a computer, this visualization allows a machine to analyze pictures. DeepDream uses a convolutional neural network, the particularity of such a network is that it is inspired by the part of the brain that allows the processing of visual information (the visual cortex). 
+
+The basic goal of DeepDream was to allow the recognition of patterns or face in a picture. When they applied the algorithm a second time the company found the appearance of patterns : paréidolies. Vulgarily, a paréidolie is an illusion that will show a known form where there is none, for example a cloud resembling an animal or a rock having the 
+shape of a face.
+
+The project, in a first step, illustrates the applications of DeepDream on different pictures. In a second step, improvements of the software are proposed:
+
+-The Laplacian pyramid decomposition method is used.
+
+-The second method involve increasing the pictures size.
+
+
+
