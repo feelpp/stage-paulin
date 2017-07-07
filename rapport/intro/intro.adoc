@@ -1,3 +1,7 @@
+== Introduction
+
+Le rapport va s'intéresser dans un premier temps à l'impact des mathématiques, puis va se porter sur Cemosis qui cherche à promouvoir cette discipline. Il va ensuite étudier quatre domaines des mathématiques en lien avec Cemosis en expliquant et illustrant ce que sont ces domaines. 
+
 == Les mathématiques d'un point de vue international, national, régional et leur impact socio-économique
 
 Aujourd’hui les mathématiques sont présentes dans de nombreux secteurs que ce soit l’industrie, la finance, la robotique, les télécommunications, la santé ou bien d’autres encore.
