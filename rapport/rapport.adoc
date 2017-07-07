@@ -1,0 +1,24 @@
+= Rapport
+:toc: left
+:icons: font
+:stem: latexmath
+
+
+include::intro/intro.adoc[]
+include::cemosis/cemosis.adoc[]
+
+== Modélisation Simulation Optimisation (MSO)
+include::mso/mso.adoc[]
+
+== Signal et Image
+include::signal_image/signal_image.adoc[]
+
+== Calcul Haute Performance (HPC)
+include::hpc/hpc.adoc[]
+
+== Traitement et fouilles des données
+include::traitement_et_fouille_donnees/data_mining.adoc[]
+
+include::projet/projet.adoc[]
+
+
