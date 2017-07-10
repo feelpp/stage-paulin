@@ -14,12 +14,12 @@ Pour la plupart des collégiens/lycéens, il est difficile de savoir vers quelle
 
 Mais malgré ces points négatifs, des solutions existent déjà et d'autres commencent à voir le jour et la visibilité des mathématiques va s’en voir grandement impacter. Tous ces points ont été relevé par une étude link:http://www.agence-maths-entreprises.fr/a/[d'AMIES} : EISEM.
 
-Parmi les solutions existant déjà on peut trouver des structures aidant à la visibilité, elles existant à différentes échelles :
-européenne, nationale et régionale.
+Parmi les solutions existant déjà, on peut trouver des structures se chargeant de promouvoir les mathématiques, nous allons nous intéresser à trois niveaux :
+européen, national et régional.
 
 Une des grosses structures européennes est link:http://www.eu-maths-in.eu/[eu-maths-in], elle cherche à améliorer les relations entre les mathématiciens, les PME et les grandes entreprises.
-Au niveau national, les structures comme link:http://www.agence-maths-entreprises.fr/a/[AMIES] pour France ou link:https://www.komso.org/[KOMSO] pour l'Allemagne cherchent aussi à promouvoir les mathématiques et a créer des liens entre les mathématiciens et les entreprises.
-Le rapport EISEIM rédigé par link:http://www.agence-maths-entreprises.fr/a/[AMIES] en est un bel exemple.
+Au niveau national, les structures comme link:http://www.agence-maths-entreprises.fr/a/[AMIES] pour la France ou link:https://www.komso.org/[KOMSO] pour l'Allemagne cherchent aussi à promouvoir les mathématiques et à créer des liens entre les mathématiciens et les entreprises.
+Le rapport EISEIM, rédigé par link:http://www.agence-maths-entreprises.fr/a/[AMIES], en est un bel exemple.
 Enfin à l'échelle régionale les structures comme link:http://www.maimosine.fr/[MaiMoSiNe] ou link:http://www.cemosis.fr/[Cemosis] se chargent de ce lien. Nous allons nous intéresser en particulier à link:http://www.cemosis.fr/[Cemosis].
 
 image::images/pyramide.jpg[]
