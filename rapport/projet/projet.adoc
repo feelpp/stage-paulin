@@ -1,4 +1,4 @@
-Dans cet partie, nous allons voir deux projets réalisés par des étudiants en deuxième année de master CSMI. Le premier projet concerne les réseaux de neurones récurrents (RNN) réalisé par Marie HOUILLON et le second le logiciel DeepDream réalisé par Clément BUSCHE.
+Dans cette partie, nous allons voir deux projets réalisés par des étudiants en deuxième année de master CSMI. Le premier projet concerne les réseaux de neurones récurrents (RNN) réalisé par Marie HOUILLON et le second le logiciel DeepDream réalisé par Clément BUSCHE.
 
 ==== Réseaux de neurones récurrents
 
