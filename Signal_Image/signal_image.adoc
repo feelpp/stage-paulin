@@ -26,3 +26,5 @@ Le traitement du signal et de l’image fait appel à différentes notions math�
 * Statistiques.
 * Algorithmique.
 * Programmation.
+
+=== Exemples de projets :
